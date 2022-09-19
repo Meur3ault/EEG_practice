@@ -15,5 +15,5 @@ whos % show that the variables have been reloaded
 [sound_sig fs] = audioread('C:\Users\Shilelon\Desktop\Matlab\drums.wav');  % fs is the frequency of simple  
 sound(sound, fs);  % play the audio  
 image_signal = imread('Winter.jpg');  
-image(image_signal)  
+image(image_signal);  
 ![image](https://user-images.githubusercontent.com/88282118/191035351-bcfff663-796a-48ee-a908-314d49ea40e8.png)  
