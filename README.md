@@ -5,5 +5,5 @@
 ### Each subclass would be grouped in different directory with respect to unique md files. Let's study step by step.   
 [1. Basic operation](https://github.com/Meur3ault/Matlab_Wavelet_SignalProcessing_Collection/blob/main/Preliminary%20operation/Preliminary%20operation.ipynb)  
 2. Fundamental mathematics：    
-[2. Matrix derivative & Trace trick](Fundamental mathematics/Matrix derivatives & Trace tricks.ipynb)
+[2.1 Matrix derivative & Trace trick](https://github.com/Meur3ault/EEG_paper_repreduce/blob/main/Fundamental%20mathematics/Matrix%20derivatives%20%26%20Trace%20tricks.ipynb)
 ![image](https://user-images.githubusercontent.com/88282118/191517556-af7d6b94-fe4d-49a9-b6e5-9c5e43999ef0.png)
