@@ -7,3 +7,4 @@
 2. Fundamental mathematics：    
 [2.1 Matrix derivative & Trace trick](https://github.com/Meur3ault/EEG_paper_repreduce/blob/main/Fundamental%20mathematics/Matrix%20derivatives%20%26%20Trace%20tricks.ipynb)   
 [3. EEGlab toolbox]()
+![image](https://user-images.githubusercontent.com/88282118/200837303-80730e62-6cc6-42d1-b7a4-d3fa62efa4fd.png)
